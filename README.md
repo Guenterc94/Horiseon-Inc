@@ -1,7 +1,7 @@
 # Horiseon-Inc
 
 ## Purpose
-Horiseon's main website page that offers resources on search engine optimization, online reputation management, and social media marketing.
+This is my challenge 1 assignment; A code refactoring of Horiseon's main website page that offers resources on search engine optimization, online reputation management, and social media marketing. The source code given was edited to make this website more accessible. 
 
 ## Built With
 * HTML
