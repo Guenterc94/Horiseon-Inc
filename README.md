@@ -8,7 +8,7 @@ Horiseon's main website page that offers resources on search engine optimization
 * CSS
 
 ## Website
-
+https://guenterc94.github.io/Horiseon-Inc/Develop/index.html
 
 ## Contribution
 Made with ❤️ by Guenter Castrillo
